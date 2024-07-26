@@ -1,0 +1,4 @@
+[submodule "modules/numC"]
+	path = modules/numC
+	url = https://github.com/aganiyar/numC
+	branch = main
